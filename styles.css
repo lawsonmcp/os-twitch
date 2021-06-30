@@ -1,0 +1,32 @@
+html,body {
+    padding:0;margin:0;
+}
+
+
+
+h1 {
+    color:rebeccapurple;
+    font-size: 6rem;
+    background-color:rgba(226, 44, 226, 0.507);
+    font-style:oblique;
+    height: 20vh;
+    margin: 0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.introduction {
+    color:black;
+    justify-content:center;
+    display: flex;
+    width: 100vw;
+}
+
+.streamer-list {
+    border:2px solid red;
+    padding: 0;
+    display:flex;
+    
+}
